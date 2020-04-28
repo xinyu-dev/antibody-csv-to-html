@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $('#load_data').click(function(){  //define the function of the load_data button
         $.ajax({
-            url:"test.csv",
+            url:data_url,
             dataType:"text",
             success:function(data)
             {
