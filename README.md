@@ -32,14 +32,12 @@ Open `antibody_table_generator.html` and click the top button to load data.
 
 # Demo
 
-## Input csv:
+## Screenshots of Input csv:
 
 ![](Examples/Input_Exmaple_csv_sreenshot.png)
 
-## Output html:
-![](Examples/Output_Example_csv_screenshot1.png)
-![](Examples/Output_Example_csv_screenshot2.png)
-![](Examples/Output_Example_csv_screenshot3.png)
+## Screenshots of Output html:
+![](Examples/Output_Example_csv_screenshot.jpg)
 
 
 # Caveats
